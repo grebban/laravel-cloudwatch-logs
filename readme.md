@@ -9,7 +9,7 @@ So, you MUST add `LOG_CHANNEL` as `cloudwatch` in your logging config for this t
 
 ### Installation
 
-`composer require pagevamp/laravel-cloudwatch-logs`
+`composer require grebban/laravel-cloudwatch-logs`
 
 ### Example
 
