@@ -19,12 +19,6 @@
       "Tests\\": "tests/"
     }
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/grebban/cwh"
-    }
-  ],
   "require": {
     "grebban/cwh": "^3.0",
     "illuminate/support": "^5.1 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
