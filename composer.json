@@ -26,7 +26,7 @@
     }
   ],
   "require": {
-    "grebban/cwh": "dev-master",
+    "grebban/cwh": "^3.0",
     "illuminate/support": "^5.1 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
   },
   "require-dev": {
